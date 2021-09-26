@@ -1,0 +1,9 @@
+@import url("https://fonts.googleapis.com/css2?family=Yaldevi&display=swap");
+
+* {
+  font-family: "Yaldevi", sans-serif;
+  box-sizing: border-box;
+}
+:root {
+  --primary-color: #be185d;
+}
