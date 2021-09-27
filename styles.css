@@ -64,3 +64,16 @@ button {
   margin: 0.5rem;
   width: 100%;
 }
+
+.green {
+  color: rgb(0, 121, 0);
+  text-align: center;
+}
+.red {
+  text-align: center;
+  color: red;
+}
+.white {
+  text-align: center;
+  color: white;
+}
